@@ -5,7 +5,7 @@ var t;
 function setup() {
 var cnv = createCanvas(windowWidth, windowHeight);
 cnv.parent("p52");
-  background("lightgrey");
+  background("white");
   stroke(0, 18);
   noFill();
   t = 0;
